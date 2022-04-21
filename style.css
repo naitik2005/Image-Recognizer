@@ -1,0 +1,14 @@
+#container {
+background-color: aquamarine;    
+}
+h1 {
+    background-color:red ;
+    width:250px;
+    color:white;
+}
+.name_of_objects {
+    font-size: large;
+}
+#Webcam {
+    font-size: medium;
+}
